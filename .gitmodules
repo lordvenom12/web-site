@@ -3,6 +3,5 @@
 	url = https://github.com/vaga/hugo-theme-m10c
 
 [submodule "themes/anatole"]
-    path = themes/anatole
-    url = https://github.com/lxndrblz/anatole.git
-
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
