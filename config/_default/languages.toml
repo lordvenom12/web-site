@@ -1,0 +1,6 @@
+[en]
+title = "My blog"
+weight = 1
+LanguageName = "EN"
+[en.params]
+contentDir = "content/en"
